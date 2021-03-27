@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/meesho-test/static/css/main.b9aa184c.chunk.css",
+    "main.js": "/meesho-test/static/js/main.9ec204da.chunk.js",
+    "main.js.map": "/meesho-test/static/js/main.9ec204da.chunk.js.map",
+    "runtime-main.js": "/meesho-test/static/js/runtime-main.1511d438.js",
+    "runtime-main.js.map": "/meesho-test/static/js/runtime-main.1511d438.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/meesho-test/static/js/stencil-h8k-logo_2-entry-js.91b3f4dd.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/meesho-test/static/js/stencil-h8k-logo_2-entry-js.91b3f4dd.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/meesho-test/static/js/stencil-polyfills-css-shim.db56049d.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/meesho-test/static/js/stencil-polyfills-css-shim.db56049d.chunk.js.map",
+    "static/css/4.4af1d344.chunk.css": "/meesho-test/static/css/4.4af1d344.chunk.css",
+    "static/js/4.cdf29630.chunk.js": "/meesho-test/static/js/4.cdf29630.chunk.js",
+    "static/js/4.cdf29630.chunk.js.map": "/meesho-test/static/js/4.cdf29630.chunk.js.map",
+    "static/js/5.dbe4ced8.chunk.js": "/meesho-test/static/js/5.dbe4ced8.chunk.js",
+    "static/js/5.dbe4ced8.chunk.js.map": "/meesho-test/static/js/5.dbe4ced8.chunk.js.map",
+    "static/js/6.a1912ff3.chunk.js": "/meesho-test/static/js/6.a1912ff3.chunk.js",
+    "static/js/6.a1912ff3.chunk.js.map": "/meesho-test/static/js/6.a1912ff3.chunk.js.map",
+    "index.html": "/meesho-test/index.html",
+    "precache-manifest.a79a3d39f86c94150dea675f8c562da2.js": "/meesho-test/precache-manifest.a79a3d39f86c94150dea675f8c562da2.js",
+    "service-worker.js": "/meesho-test/service-worker.js",
+    "static/css/4.4af1d344.chunk.css.map": "/meesho-test/static/css/4.4af1d344.chunk.css.map",
+    "static/css/main.b9aa184c.chunk.css.map": "/meesho-test/static/css/main.b9aa184c.chunk.css.map",
+    "static/js/4.cdf29630.chunk.js.LICENSE.txt": "/meesho-test/static/js/4.cdf29630.chunk.js.LICENSE.txt",
+    "static/js/5.dbe4ced8.chunk.js.LICENSE.txt": "/meesho-test/static/js/5.dbe4ced8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1511d438.js",
+    "static/css/4.4af1d344.chunk.css",
+    "static/js/4.cdf29630.chunk.js",
+    "static/css/main.b9aa184c.chunk.css",
+    "static/js/main.9ec204da.chunk.js"
+  ]
+}
